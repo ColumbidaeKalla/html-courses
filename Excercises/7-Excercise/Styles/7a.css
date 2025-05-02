@@ -1,0 +1,5 @@
+.image-class {
+    width: 250px;
+    object-fit: cover;
+    border-radius: 15px;
+}

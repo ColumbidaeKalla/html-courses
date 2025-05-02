@@ -1,0 +1,41 @@
+p
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Arial;
+    color: #646464;
+    font-size: 16px;
+}
+
+.email-class
+{
+    margin-bottom: 10px;
+}
+
+.input-class
+{
+    border: 2px solid #646464;
+    border-radius: 5px;
+    width: 400px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 20px;
+}
+
+.subtitle-class
+{
+    margin-bottom: 20px;
+}
+
+.aggre-button
+{
+    background-color: #0a66c2;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    width: 400px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    cursor: pointer;
+}
