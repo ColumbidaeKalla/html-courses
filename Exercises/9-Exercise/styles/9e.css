@@ -1,0 +1,37 @@
+.tweet-div {
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+    width: 450px;
+    border-radius: 6px;
+    padding: 12px;
+}
+
+.image-class
+{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.input-class
+{
+    width: 300px;
+    border: none;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.tweet-button
+{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 16px;
+    vertical-align: middle;
+    cursor: pointer;
+}

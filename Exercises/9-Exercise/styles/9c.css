@@ -1,0 +1,10 @@
+.title {
+    font-family: Arial;
+}
+
+.service-class {
+    border: 1px solid rgb(150, 150, 150);
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
