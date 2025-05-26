@@ -1,0 +1,14 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: row; /* Change to 'column' for vertical layout */
+}
+
+.flexbox1 {
+    background-color: lightblue;
+    width: 200px;
+}
+
+.flexbox2 {
+    background-color: lightpink;
+    width: 75px;
+}

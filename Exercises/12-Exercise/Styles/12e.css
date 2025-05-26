@@ -1,0 +1,23 @@
+.menu {
+    border: 1px solid rgb(120, 120, 120);
+    border-radius: 6px;
+    width: 300px;
+    font-family: Arial;
+}
+
+.navbar {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+}
+
+.number-div {
+    background-color: rgb(49, 109, 245);
+    color: white;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
