@@ -1,0 +1,59 @@
+.gmail {
+    width: 400px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(120, 120, 120);
+    font-family: arial;
+}
+
+.inbox-label {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.mail-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.mail-image-div {
+    margin-right: 10px;
+}
+
+.mail-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+.mail-content {
+    flex: 1;
+}
+
+.mail-title-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3px;
+}
+
+.mail-title {
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.mail-time {
+    font-size: 14px;
+}
+
+.subject {
+    font-weight: bold;
+    color: black;
+    margin-bottom: 5px;
+}

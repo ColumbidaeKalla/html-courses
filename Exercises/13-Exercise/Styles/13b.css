@@ -1,0 +1,24 @@
+.flexbox-container {
+    display: flex;
+    height: 50px;
+}
+
+.felxbox1 {
+    background-color: lightpink;
+    width: 100px;
+}
+
+.flexbox2 {
+    background-color: lightblue;
+    width: 200px;
+}
+
+.row2-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row2 {
+    background-color: black;
+    color: white;
+}
