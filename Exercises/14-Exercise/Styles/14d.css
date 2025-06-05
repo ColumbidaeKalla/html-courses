@@ -1,0 +1,44 @@
+.right-sidebar {
+    background-color: green;
+    color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100px;
+}
+
+.overlay-model {
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.overlay-content {
+    background-color: white;
+    width: 300px;
+    border-radius: 5px;
+    font-family: Arial;
+    padding: 15px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+.model-content {
+    margin-bottom: 12px;
+}
+
+.close-button {
+    margin-bottom: 5px;
+    cursor: pointer;
+}
