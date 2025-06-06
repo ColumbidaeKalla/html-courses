@@ -1,0 +1,38 @@
+.selling-product {
+    position: relative;
+    display: inline-block;
+}
+
+.product-image {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.discount {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    padding: 8px 12px;
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+.add-cart {
+    background-color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-cart-bottom {
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px 15px;
+}

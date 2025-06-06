@@ -1,0 +1,35 @@
+.main-div {
+    background-color: gray;
+    width: 320px;
+    height: 180px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.cross-div {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -18px;
+    left: -18px;
+}
+
+.time-div {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    font-size: 18px;
+    padding: 5px 10px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
